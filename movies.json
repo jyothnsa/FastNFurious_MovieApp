@@ -1,0 +1,74 @@
+{
+  "movies": [{
+    "title" : "The Fast and the Furious",
+    "movie_number" : "1",
+    "main_characters" : ["Dominic Toretto", "Brian O'Conner", "Leticia 'Letty' Ortiz", " Mia Toretto", "Johnny Tran", "Jesse", "Leon", "Vince", "Tanner", "Bilkins"],
+    "description" : "In the docks outside Los Angeles, a semi-trailer truck is loaded with electronics. On the road, it is hijacked by three heavily modified black Honda Civics with green underglow. The Honda drivers fire a grappling hook into the truck's windshield, knock out the driver, and corral the semi allowing them to heist the electronics and escape.The next day, undercover LAPD officer Brian O'Conner is assigned to find the gang responsible for the crimes. Brian uses his cover job at an auto parts shop to infiltrate the L.A. street racing scene. While visiting Torreto's Market, a local grocery, he flirts with the shop's owner, Mia Toretto, who is the younger sister of a well-known street racer, Dominic Toretto. Vince, one of Dominic’s henchmen and who has a crush on her, starts a fight with Brian, which Dominic breaks up.",
+    "poster" : "Fast_and_the_furious_poster1.jpg",
+    "hero_image" : "one.jpg"
+  },
+
+  {
+    "title" : "2 Fast 2 Furious",
+    "movie_number" : "2",
+    "main_characters" : ["Dominic Toretto", "Brian O'Conner", "Leticia 'Letty' Ortiz", " Mia Toretto", "Monica Fuentes", "Carter Verone", "Tej Parker", "Suki", "Markham", "Bilkins"],
+    "description" : "After allowing fugitive Dominic Toretto (Vin Diesel) to evade arrest, former LAPD officer Brian O'Conner (Paul Walker) finds himself on the run from the FBI and the LAPD for his actions. He flees Los Angeles to start a new life, traveling across the U.S. in a red Mitsubishi GTO. At each stop along the way he enters drag races, winning large amounts of money, and staying one step ahead of the FBI, who issue a country-wide manhunt against him. The police eventually locate Brian and repossess his car, forcing him to flee on foot. A young woman (Minka Kelly) picks him up hitchhiking, and drops him off at a local car lot, where he buys a 1999 Nissan Skyline GT-R R34 with his various winnings. After winning several more races, Brian decides to settle in Miami.",
+    "poster" : "Two_fast_two_furious2.jpg",
+    "hero_image" : "two.png"
+  },
+
+  {
+    "title" : "The Fast and the Furious: Tokyo Drift",
+    "movie_number" : "3",
+    "main_characters" : ["Dominic Toretto", "Sean Boswell", "Neela", "Han Lue", "Twinkie", "Takashi/DK", "Morimoto", "Clay", "Cindy", "Earl"],
+    "description" : "In Oro Valley, Arizona, 17-year-old high school students Sean Boswell (Lucas Black) and Clay (Zachery Ty Bryan) race their cars to win the affections of Clay's girlfriend Cindy (Nikki Griffin). When Sean cuts through a structure and catches up to Clay, Clay hits Sean's car repeatedly until they reach a high-speed turn, which causes both cars to crash; Sean's car is totaled. Clay's wealthy family helps him escape punishment, but Sean is sent to live in Tokyo, Japan, with his father, a U.S. Navy officer, in order to avoid juvie or even jail.",
+    "poster" : "Poster_-_Fast_and_Furious_Tokyo_Drift3.jpg",
+    "hero_image" : "three.jpg"
+  },
+
+  {
+    "title" : "Fast & Furious 4",
+    "movie_number" : "4",
+    "main_characters" : ["Dominic Toretto", "Brian O'Conner", "Leticia 'Letty' Ortiz", " Mia Toretto", " Gisele Yashar", "Arturo Braga", "Fenix Calderon", "Penning", "Michael Stasiak", "Tego"],
+    "description" : "Five years after the first film, Dominic Toretto and his new crew, consisting of his girlfriend Letty, Tego Leo, Rico Santos, Cara Mirtha and Han Seoul-Oh, are hijacking fuel tankers in the Dominican Republic. Dominic suspects that the police are on their trail, forcing the crew to disband and go their separate ways, with Han deciding to return to Tokyo. Realizing that he must leave, he runs, leaving Letty behind to protect her from harm.",
+    "poster" : "Fast_and_Furious_Poster4.jpg",
+    "hero_image" : "four.jpg"
+  },
+
+  {
+    "title" : "Fast Five",
+    "movie_number" : "5",
+    "main_characters" : ["Dominic Toretto", "Brian O'Conner", "Mia Toretto", "Roman Pearce", "Tej Parker", "Vince", "Han Seoul-Oh", "Luke Hobbs", "Gisele", " Hernan Reyes"],
+    "description" : "When Dominic 'Dom' Toretto is being transported to Lompoc Prison by bus, his sister Mia Toretto and friend Brian O'Conner lead an assault on the bus, causing it to crash and freeing Dom. While the authorities search for them, the trio escapes to Rio de Janeiro. Awaiting Dom's arrival, Mia and Brian join their friend Vince and other participants on a job to steal three cars from a train. Brian and Mia discover that agents from the U.S. Drug Enforcement Administration (DEA) are also on the train and that the cars are seized property. When Dom arrives with the rest of the participants, he realizes that one of them, Zizi, is only interested in stealing one car, a Ford GT40. Dom has Mia steal the car herself before he and Brian fight Zizi and his henchmen, during which Zizi kills the DEA agents assigned to the vehicles. Dom and Brian are captured and brought to crime lord Hernan Reyes, the owner of the cars and Zizi's boss. Reyes orders the pair be interrogated to discover the location of the car, but they manage to escape and retreat to their safehouse.",
+    "poster" : "Fast_Five_poster5.jpg",
+    "hero_image" : "five.jpg"
+  },
+
+  {
+    "title" : "Fast & Furious 6",
+    "movie_number" : "6",
+    "main_characters" : ["Dominic Toretto", "Brian O'Conner", "Leticia 'Letty' Ortiz", " Mia Toretto", "Luke Hobbs", "Roman Pearce", "Tej Parker", "Han Seoul-Oh", "Gisele Yashar", " Owen Shaw"],
+    "description" : "Following their successful heist in Brazil, Dominic 'Dom' Toretto and his professional criminal crew have fled around the world: Dom lives with Elena; his sister Mia lives with Brian O'Conner and their son, Jack; Gisele and Han live together; and Roman and Tej live in luxury. Meanwhile, DSS agent Luke Hobbs and Riley Hicks investigate the destruction of a Russian military convoy by a crew led by former British SAS Major and special ops soldier Owen Shaw. Hobbs persuades Dom to help capture Shaw by showing him a photo of the supposedly long-dead Letty Ortiz, Dom's former lover. Dom and his crew accept the mission in exchange for their amnesty, allowing them to return to the United States.",
+    "poster" : "FastandFurious6-teaserposter6.jpg",
+    "hero_image" : "six.jpg"
+  },
+
+  {
+    "title" : "Furious 7",
+    "movie_number" : "7",
+    "main_characters" : ["Dominic Toretto", "Brian O'Conner", "Leticia 'Letty' Ortiz", " Mia Toretto", "Luke Hobbs", "Roman Pearce", "Tej Parker", "Mose Jakande", "Mose Jakande", "Kiet"],
+    "description" : "After defeating Owen Shaw and his crew and securing amnesty for their past crimes, Dominic 'Dom' Toretto, Brian O'Conner and the rest of their team have returned to the United States to live normal lives again. Brian begins to accustom himself to life as a father, while Dom tries to help Letty Ortiz regain her memory. Meanwhile, Owen's older brother, Deckard Shaw, breaks into the secure hospital that the comatose Owen is being held in and swears vengeance against Dom, before breaking into Luke Hobbs' DSS office to extract profiles of Dom's crew. After revealing his identity, Shaw engages Hobbs in a fight, and escapes when he detonates a bomb that severely injures Hobbs. Dom later learns from his sister Mia that she is pregnant again and convinces her to tell Brian. However, a bomb, disguised in a package sent from Tokyo, explodes and destroys the Toretto house just seconds after Han, a member of Dom's team, is killed by Shaw in Tokyo. Dom later visits Hobbs in a hospital, where he learns that Shaw is a rogue special forces assassin seeking to avenge his brother. Dom then travels to Tokyo to claim Han's body, and meets and races Sean Boswell, a friend of Han's who gives him personal items found at Han's crash site.",
+    "poster" : "Furious_7_poster7.jpg",
+    "hero_image" : "seven.jpg"
+  },
+
+  {
+    "title" : "The Fate of the Furious",
+    "movie_number" : "8",
+    "main_characters" : ["Dominic Toretto", "Leticia 'Letty' Ortiz", "Luke Hobbs", "Roman Pearce", "Tej Parker", "Ramsey", "Frank Petty", "Eric Reisner", "Cipher", "Magdalene Shaw"],
+    "description" : "Following the events of Furious 7, Dom and his wife Letty have gone on their honeymoon, and the rest of the crew have begun to settle down to a more normal life. But when a mysterious woman convinces Dom to work against the people that he is closest to, the rest of the crew must face trials they have never seen before – including some former enemies – in order to bring back the man who brought them together in the first place.",
+    "poster" : "The_Fate_of_The_Furious_Theatrical_Poster8.jpg",
+    "hero_image" : "eight.jpg"
+  }]
+
+}
